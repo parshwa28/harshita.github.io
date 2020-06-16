@@ -1,0 +1,47 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+body{
+color: white;
+background-color: darkolivegreen;
+}
+
+#div1{
+    background-color: white;
+    background-position: center;
+    background-image: url(Background\ 1.jpg)
+    
+}
+div{
+    height: 25cm;
+}
+
+
+li{
+    font-weight: bold;
+    font-size: 30px;
+display: inline;
+    padding: 20px;
+    line-height: 5cm;
+    }
+
+    ul{
+        text-align: right;
+    }
+
+    a:link, a:visited{
+    text-decoration:none;
+    color: darkred;
+    }
+
+    a:hover{
+        background-color: blanchedalmond;
+        color: darkred;
+    }
+
+    #div4,#div3,#div2{
+        font-size: 25px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
